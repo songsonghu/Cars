@@ -43,7 +43,7 @@ namespace CarsManagePlatform
         }
 
         /// <summary>
-        /// MD5加密
+        /// MD5加密方法
         /// </summary>
         /// <param name="strPwd"原字符串</param>
         /// <returns></returns>
