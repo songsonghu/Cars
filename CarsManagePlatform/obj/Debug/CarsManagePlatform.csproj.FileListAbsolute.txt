@@ -1,0 +1,56 @@
+c:\users\song\documents\visual studio 2010\Projects\CarsManagePlatform\CarsManagePlatform\bin\CarsManagePlatform.dll
+c:\users\song\documents\visual studio 2010\Projects\CarsManagePlatform\CarsManagePlatform\bin\CarsManagePlatform.pdb
+c:\users\song\documents\visual studio 2010\Projects\CarsManagePlatform\CarsManagePlatform\obj\Debug\CarsManagePlatform.dll
+c:\users\song\documents\visual studio 2010\Projects\CarsManagePlatform\CarsManagePlatform\obj\Debug\CarsManagePlatform.pdb
+c:\users\song\documents\visual studio 2010\Projects\CarsManagePlatform\CarsManagePlatform\obj\Debug\CarsManagePlatform.csprojResolveAssemblyReference.cache
+c:\users\song\documents\visual studio 2010\Projects\CarsManagePlatform\CarsManagePlatform\bin\MySql.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CarsManagePlatform\CarsManagePlatform\bin\CarsManagePlatform.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CarsManagePlatform\CarsManagePlatform\bin\CarsManagePlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CarsManagePlatform\CarsManagePlatform\bin\CarsManagePlatform.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CarsManagePlatform\CarsManagePlatform\bin\MySql.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CarsManagePlatform\CarsManagePlatform\obj\Debug\CarsManagePlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CarsManagePlatform\CarsManagePlatform\obj\Debug\CarsManagePlatform.pdb
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\obj\Debug\CarsManagePlatform.csprojResolveAssemblyReference.cache
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\CarsManagePlatform.dll.config
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\CarsManagePlatform.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\CarsManagePlatform.pdb
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\MySql.Data.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.Biz.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.Models.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.Common.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.DataAccess.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Infrastructure.Common.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.BizCore.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\log4net.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Newtonsoft.Json.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.Biz.pdb
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.Models.pdb
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.Common.pdb
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.DataAccess.pdb
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Smart.API.Adapter.BizCore.pdb
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Newtonsoft.Json.xml
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\obj\Debug\CarsManagePlatform.dll
+F:\李志魁\Smart.API.AdapterNew\src\CarsManagePlatform\obj\Debug\CarsManagePlatform.pdb
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\obj\Debug\CarsManagePlatform.csprojResolveAssemblyReference.cache
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\obj\Debug\CarsManagePlatform.csproj.CoreCompileInputs.cache
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\obj\Debug\CarsManagePlatform.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\obj\Debug\CarsManagePlatform.pdb
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\CarsManagePlatform.dll.config
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\CarsManagePlatform.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\CarsManagePlatform.pdb
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\MySql.Data.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\Smart.API.Adapter.Biz.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\Smart.API.Adapter.Models.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\Smart.API.Adapter.Common.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\Smart.API.Adapter.DataAccess.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\Infrastructure.Common.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\Smart.API.Adapter.BizCore.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\log4net.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\Newtonsoft.Json.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Song\Documents\Visual Studio 2017\Projects\Cars\CarsManagePlatform\obj\Debug\CarsManagePlatform.csproj.CopyComplete
